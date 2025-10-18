@@ -1,1 +1,1 @@
-freferedshow what Is react how can provide class provide 
+ what Is react how can provide class provide 
