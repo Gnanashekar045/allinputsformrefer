@@ -1,1 +1,1 @@
- what Is react how can provide class provide 
+Is react how can provide class provide 
