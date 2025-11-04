@@ -1,1 +1,1 @@
-bfthgvghhxgghhfgfgvgvccvhvhghIs react how can provide class 
+bfthgvghhxgghhfgfgvgvccvhvhghIs react how can provide 
