@@ -1,5 +1,5 @@
 // jest-dom adds custom jest matchers for  
-// allows you to do 
+// allows you to
 // expect(element).toHaveTextContent(/react/i)
 // learn more: https://github.com/testing-library/jest-dom
 import '@testing-library/jest-dom';
